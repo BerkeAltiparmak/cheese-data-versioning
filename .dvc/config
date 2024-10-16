@@ -1,4 +1,4 @@
 [core]
     remote = cheese_dataset
 ['remote "cheese_dataset"']
-    url = gs://runningassistant/dvc_store
+    url = gs://runningassistant/dvc_store/files/md5/d7/
